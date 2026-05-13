@@ -2,7 +2,9 @@
 
 A cybersecurity-themed endless runner built with [Phaser](https://phaser.io/) and Vite. Dodge malware, phishing, and ransomware. Grab keys and MFA tokens to stay alive.
 
-Originally built as a side project on my [portfolio site](https://github.com/SammyCode002), extracted here as a standalone repo.
+![Cyberrunner gameplay](public/screenshot.png)
+
+Playable in-browser on my [portfolio site](https://portfolio-hazel-eight-1eo8p12f3a.vercel.app/). This repo is the standalone, no-React version of the same game.
 
 ## Run locally
 

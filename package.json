@@ -1,0 +1,18 @@
+{
+  "name": "cyberrunner",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A cybersecurity-themed endless runner built with Phaser. Dodge malware, phishing, and ransomware.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^4.1.0"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}

@@ -24,9 +24,9 @@ The static bundle lands in `dist/` and can be deployed to any static host (Verce
 
 ## Controls
 
-- **Space / Up / Tap** — jump
-- **Down** — slide / fast-fall
-- **Enter** — start / restart
+- **Space / Up / Tap** - jump
+- **Down** - slide / fast-fall
+- **Enter** - start / restart
 
 ## Project layout
 
